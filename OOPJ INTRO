@@ -1,0 +1,61 @@
+EVOLUTION OF PROGRAMMING LANGUAGE 
+MACHINE LANGUAGE → ASSEMBLY LANGUAGE → C → C++ → JAVA → OTHER HIGH LEVEL LANGUAGE 
+
+Java is OBJECT ORIENTED and platform INDEPENDENT programming language used for a wide range of applications and also with capabilitiy of write once run anywhere .
+
+JAVA BACKGROUND :
+JAVA was developed by JAMES GHOSLING at SUN MICROSYSTEMS . Initially named as OAK , Java along with sun microsystems was acquired by oracle , The oracle was created a special run time environment to run java 
+program which is known as JRE . It includes some libraries and classes along with JRE a development tool kit was made to create java based softwares which is known as JAVA DEVELOPMENT KIT [JDK].
+
+KEY FEATURES:-
+1.Object oriented 
+2.platform independent 
+3.high level language 
+4.memory safe 
+5.secure 
+6.multithreaded 
+7.rich libraries and API's [ Application programming interface ] 
+
+COMMON USES OF JAVA  :-
+1.Andriod mobile development 
+2.Web development 
+3.Enterprise application 
+4.Desktop application 
+5.Big data 
+6.Internet of Things [IoT]
+
+WORKING OF JAVA PROGRAM :-
+
+SOURCE CODE → COMPILER BYTE CODE → JVM [ INTERPRETER ] → MACHINE CODE .
+The source code of java is saved with a file name having an extension of [ .java ] 
+JAVA IS CASE SENSITIVE LANGUAGE .
+
+JAVA BASIC SYNTAX :-
+
+SYNTAX:- A set of rules strictly followed for a particular programming language .
+SEMANTICS :- The underlying functions performed by a syntax are defined with the help of semantics .
+
+EXAMPLE :-
+
+public class Helloworld{
+    public static void main(String[]args){
+        System.out.print("Hello world \n");
+        System.out.println("Hello world");
+    }
+}
+
+OUTPUT :-
+Hello world 
+Hello world
+
+JAVA LIBRARIES :-
+CORE JAVA LIBRARIES & FRAMEWORKS:-
+1.JAVA STANDARD LIBRARY → Foundation of java development providing core classes for I/O ,networking,collections and more .
+2.APACHE COMMONS → A collection of reusable java components for various tasks,including string manipulation mathematical operations , file handling .
+3.Guava → Googles library offering utilities for collections , caching ( temporary storage ) , concurrency [ multitasking] , and more enhancing development efficieny .
+4.Junit → A widely used framework for unit testing , enabling developers to write and run tests to verify the correctness of their code.
+
+SPECIALIZED LIBRARIES :-
+1.Jackson    4.Mockito            7.Lombok
+2.GSon       5.JAXB               8.Apache POI 
+3.Log4j      6.Http CLient        9.iText 
